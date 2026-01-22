@@ -72,3 +72,5 @@ Contributions to HardhatDev are welcome and appreciated! We value community inpu
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ronaldo45rt/HardhatDev/blob/main/LICENSE) file for details.
+
+Auto PR badge trigger.
